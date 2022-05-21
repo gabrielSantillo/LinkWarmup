@@ -1,0 +1,1 @@
+This is a warm up to remember how to create some external links and local images
